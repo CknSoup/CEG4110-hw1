@@ -8,3 +8,5 @@ This Android app has two activities; one generates and displays a random color i
 This app uses two external resources, ColorSeekBar from rtugeek (https://github.com/rtugeek/ColorSeekBar), and HandDraw from gauravyadav673 (https://github.com/gauravyadav673/HandDraw). For both of these, I installed them by placing the root folder of ColorSeekBar and the folder touchDraw from HandDraw into the root folder of the project, and then imported both as modules. Then I needed to go to the project structure and make my main app dependent on both modules.
 
 I organized this project by using two classes to distinguish the two homework parts. Most of the functionality comes from the onCreate() methods in those classes, although in part 2 I also had a saveFile() method which gets called when either the save PNG or JPEG buttons get pressed (in order to have some code reuse). I didn't do any other major organization as I partially did not see any need, and as this is my biggest android project so far I didn't know of any better way of doing it.
+
+![alt text](https://github.com/andrew1900/CEG4110-hw1/blob/master/Screenshot_20180917-195029.png)
