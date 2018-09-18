@@ -10,3 +10,5 @@ This app uses two external resources, ColorSeekBar from rtugeek (https://github.
 I organized this project by using two classes to distinguish the two homework parts. Most of the functionality comes from the onCreate() methods in those classes, although in part 2 I also had a saveFile() method which gets called when either the save PNG or JPEG buttons get pressed (in order to have some code reuse). I didn't do any other major organization as I partially did not see any need, and as this is my biggest android project so far I didn't know of any better way of doing it.
 
 ![alt text](https://github.com/andrew1900/CEG4110-hw1/blob/master/Screenshot_20180917-195029.png)
+
+![alt text](https://github.com/andrew1900/CEG4110-hw1/blob/master/Screenshot_20180917-195104.png)
